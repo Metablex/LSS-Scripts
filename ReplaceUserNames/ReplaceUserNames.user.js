@@ -1,10 +1,13 @@
 // ==UserScript==
 // @name         Replace user names
 // @version      1.0.0
+// @description  Ersetzt die Namen eurer Verbandmitglieder im Chat. Gut bei Mitgliedern mit ähnlichen user names :)
 // @author       Metablex
 // @include      *://www.leitstellenspiel.de/
 // @include      *://leitstellenspiel.de/
 // @grant        none
+// @updateURL    https://github.com/Metablex/LSS-Scripts/raw/master/ReplaceUserNames/ReplaceUserNames.user.js
+// @downloadURL  https://github.com/Metablex/LSS-Scripts/raw/master/ReplaceUserNames/ReplaceUserNames.user.js
 // ==/UserScript==
 /* global $ */
 
